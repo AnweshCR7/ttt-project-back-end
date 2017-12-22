@@ -1,7 +1,7 @@
 # ttt-project-back-end
 
 ## description
-Takes any number _N_ (over REST) and returns the top N words and their frequency of occurence from http://terriblytinytales.com/test.txt
+Takes any number _N_ (over REST) and returns the top N words and their frequency of occurence from http://terriblytinytales.com/test.txt.
 Restful services have been employed to send/receive data over Http. The server-script is written in node. 
 
 ## How to run
